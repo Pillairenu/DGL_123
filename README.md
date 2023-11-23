@@ -164,9 +164,9 @@ Complete User Experience Enhancement (Feature 4 & 5).
 
 ### website screenshot on AWS
 
-![Screenshot 1](images/AWS_Screenshot_1.png)
+![Screenshot 1](/milestone_3/images/AWS_Screenshot_1.png)
 
-![Screenshot 2](images/AWS_Screenshot_2.png)
+![Screenshot 2](/milestone_3/images/AWS_Screenshot_2.png)
 
-![Screenshot 3](images/AWS_Screenshot_3.png)
+![Screenshot 3](/milestone_3/images/AWS_Screenshot_3.png)
 
