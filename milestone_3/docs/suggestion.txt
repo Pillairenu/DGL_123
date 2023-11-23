@@ -1,0 +1,82 @@
+ChatGPT Suggestions
+
+1.Use Constants for Route Paths:Instead of using hardcoded strings as route paths,
+  consider defining constants for these paths. This can make your code more maintainable and help prevent typos.
+  eg: define('ROOT', '/');
+      define('SIGNIN', '/signin');
+
+      $routes = [
+        ROOT => 'controllers/index.php',
+        SIGNIN => 'controllers/signin.php',
+        // Define other routes here
+    ];
+
+    My response:I would like to implement it.
+
+    I did this during the lab time.It's done and working.
+
+ 2. In add property.view: 
+
+        Labels and Input Fields:
+
+        Consider using the for attribute in your <label> tags to associate them with the corresponding input fields using the id attribute. This improves accessibility and allows users to click on the label to focus on the input field.
+        html
+    
+        <label for="unit-number">Unit Number:</label>
+        <input type="text" id="unit-number" name="unit-number" required>
+
+        My response:I have already implemented it in my code. 
+
+
+        Select Options:
+
+        Ensure that your <select> elements have a default "Select" or "Choose" option with a disabled attribute to prompt users to make a selection. This can help prevent accidental submissions.
+        html
+        Copy code
+        <select id="property-type" name="property-type" required>
+            <option value="" disabled selected>Select Property Type</option>
+            <option value="room">Room</option>
+            <option value="apartment">Apartment</option>
+            <option value="house">House</option>
+        </select>
+
+         My response:I might implement it since I didn't have a default "Select" or "Choose" option.
+
+    3. Mobile Responsiveness:
+
+        Consider how the view displays on different devices and screen sizes. Ensure that it's mobile-responsive and user-friendly.
+
+        My response:I'm planning to implement it is one of the most important part of an app to view it in different screen.
+
+
+    4. Suggestions in favorite.view.php     
+
+        Dynamic Data:
+
+        If this page is meant to display a list of favorite properties, 
+        you should dynamically populate this page with data from your backend.
+         Consider using a loop to iterate through your list of favorite properties and generate the HTML dynamically. 
+        This makes your code more maintainable and scalable.
+
+        My response:I'm going to establish a database connection and dynamically populate data.
+
+    5. To provide the user with the option to choose between "customer" and "real estate agent" during the signup process.
+        My Response: It's important since the customer and the agent have unique functionalities.
+
+        I did this during the lab time.It's done and working.
+        
+    6. Crtique from Students
+
+        Student notes: Improve code documentation, organization, and commit
+        frequency while adding advanced filtering options for better user experience and future
+        development.
+        The design of the site looks so clean and precisely
+        designed. Clearly represent the goal of the site. the
+        things she needs to work on commits, and she needs to
+        understand why it is essential. Also, she needs to work on
+        responsiveness, which is missing in this milestone.
+        Add a filter to the apartment
+        for filtering listings you could have an attribute section in the database for bedrooms, cost, etc and then make that searchable
+
+
+        Lab self-evaluation: 4/4. Done two suggestions by ChatGPT

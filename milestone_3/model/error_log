@@ -1,0 +1,27 @@
+[22-Nov-2023 23:54:00 UTC] PHP Warning:  require_once(/DGL_123/milestone_3/Database.php): Failed to open stream: No such file or directory in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php on line 3
+[22-Nov-2023 23:54:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/DGL_123/milestone_3/Database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php on line 3
+[23-Nov-2023 00:00:02 UTC] PHP Warning:  require_once(/milestone_3/Database.php): Failed to open stream: No such file or directory in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php on line 3
+[23-Nov-2023 00:00:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/milestone_3/Database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php on line 3
+[23-Nov-2023 00:06:24 UTC] PHP Warning:  require_once(Database.php): Failed to open stream: No such file or directory in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php on line 3
+[23-Nov-2023 00:06:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php on line 3
+[23-Nov-2023 00:10:01 UTC] PHP Warning:  require_once(/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/Database.php): Failed to open stream: No such file or directory in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php on line 3
+[23-Nov-2023 00:10:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/Database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php on line 3
+[23-Nov-2023 00:10:17 UTC] PHP Warning:  require_once(/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/Database.php): Failed to open stream: No such file or directory in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php on line 3
+[23-Nov-2023 00:10:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/Database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/signup.model.php on line 3
+[23-Nov-2023 00:59:24 UTC] PHP Warning:  move_uploaded_file(uploads/real-estate-5.jpg): Failed to open stream: No such file or directory in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/add_property.model.php on line 20
+[23-Nov-2023 00:59:24 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpk7GfzZ&quot; to &quot;uploads/real-estate-5.jpg&quot; in /home/n0202333/public_html/dgl123.rpillai.imgd.ca/DGL_123/milestone_3/model/add_property.model.php on line 20
