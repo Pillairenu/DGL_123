@@ -162,7 +162,7 @@ Week: 5th Week of Nov
 Complete User Experience Enhancement (Feature 4 & 5).
 
 
-### website screenshot on AWS
+### Website screenshot on AWS
 
 ![Screenshot 1](/milestone_3/images/AWS_Screenshot_1.png)
 
@@ -170,3 +170,19 @@ Complete User Experience Enhancement (Feature 4 & 5).
 
 ![Screenshot 3](/milestone_3/images/AWS_Screenshot_3.png)
 
+
+## Link to repository
+
+[Link to repository](https://github.com/Pillairenu/DGL_123/tree/deploym3)
+
+## Link to your Milestone 3 deployed installation
+
+[Link to website on AWS](https://dgl123.rpillai.imgd.ca/DGL_123/milestone_3/)
+
+
+### Rubric
+![rubric](/milestone_3/images/Rubric_assignment8_deployment.png)
+
+## Self-assessed score
+
+7.2/8
