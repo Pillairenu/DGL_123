@@ -15,4 +15,4 @@ $statement->bindParam(':property_id', $propertyId);
 $statement->bindParam(':booking_date', $bookingDate);  // Replace with your booking date value
 $statement->execute();
 
-header("Location: /DGL_123/milestone_3/bookings");
+header("Location: $proj_root/bookings");
