@@ -1,8 +1,12 @@
 <?php
 
 // Define the project root variable
- $proj_root = '/DGL_123/milestone_3';
 
-//$proj_root = $_SERVER['DOCUMENT_ROOT'] . '/DGL_123/milestone_3/';
+//hardcoded path
+//$proj_root = '/DGL_123/milestone_3';
+
+//Extract the value from $_SERVER superglobal
+$proj_root = str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME']));
+
 
 ?>

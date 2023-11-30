@@ -6,7 +6,7 @@ $port     = '';                      // Port is usually 8889 in MAMP and 3306 in
 $charset  = 'utf8mb4';               // UTF-8 encoding using 4 bytes of data per character
 
 $username = 'renu';         // Enter YOUR username here
-$password = 'renu@123';         // Enter YOUR password here
+$password = 'niccollege';         // Enter YOUR password here
 
 $options  = [                       
     PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
